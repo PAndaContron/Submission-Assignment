@@ -25,7 +25,7 @@ public class You{
 	private String favoriteAnimal;
 	private int age;
 
-	public You {
+	public You() {
 		firstName = "Rajat";
 		lastName = "Patel";
 		favoriteAnimal = "Panda";
